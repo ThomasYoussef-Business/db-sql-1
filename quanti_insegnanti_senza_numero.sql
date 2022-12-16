@@ -1,0 +1,1 @@
+﻿select count(*) from [dbo].[teachers] where [phone] is null;
