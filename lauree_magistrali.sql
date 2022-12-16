@@ -1,1 +1,2 @@
-﻿select * from dbo.courses where [year] = 2;
+﻿select * from [dbo].[degrees]where [level] = 'magistrale'
+order by [name];
