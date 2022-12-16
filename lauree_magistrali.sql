@@ -1,0 +1,1 @@
+﻿select * from dbo.courses where [year] = 2;
